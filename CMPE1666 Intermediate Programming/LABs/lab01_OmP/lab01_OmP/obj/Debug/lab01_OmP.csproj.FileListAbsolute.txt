@@ -1,0 +1,10 @@
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\LABs\lab01_OmP\lab01_OmP\bin\Debug\lab01_OmP.exe.config
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\LABs\lab01_OmP\lab01_OmP\bin\Debug\lab01_OmP.exe
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\LABs\lab01_OmP\lab01_OmP\bin\Debug\lab01_OmP.pdb
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\LABs\lab01_OmP\lab01_OmP\bin\Debug\GDIDrawer.dll
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\LABs\lab01_OmP\lab01_OmP\obj\Debug\lab01_OmP.csproj.AssemblyReference.cache
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\LABs\lab01_OmP\lab01_OmP\obj\Debug\lab01_OmP.csproj.CoreCompileInputs.cache
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\LABs\lab01_OmP\lab01_OmP\obj\Debug\lab01_OmP.csproj.Up2Date
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\LABs\lab01_OmP\lab01_OmP\obj\Debug\lab01_OmP.exe
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\LABs\lab01_OmP\lab01_OmP\obj\Debug\lab01_OmP.pdb
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\LABs\lab01_OmP\lab01_OmP\obj\Debug\lab01_OmP.exe.config
