@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ompatel\\Downloads\\To Transfer From Pen Drive\\ip\\LABs\\lab01_OmP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63A3A16F-E86F-49F5-B0ED-4FB8AE5E706D}|lab01_OmP\\lab01_OmP.csproj|c:\\users\\ompatel\\downloads\\to transfer from pen drive\\ip\\labs\\lab01_omp\\lab01_omp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A3A16F-E86F-49F5-B0ED-4FB8AE5E706D}|lab01_OmP\\lab01_OmP.csproj|solutionrelative:lab01_omp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ompatel\\Downloads\\To Transfer From Pen Drive\\ip\\LABs\\lab01_OmP\\lab01_OmP\\Program.cs",
+              "RelativeDocumentMoniker": "lab01_OmP\\Program.cs",
+              "ToolTip": "C:\\Users\\ompatel\\Downloads\\To Transfer From Pen Drive\\ip\\LABs\\lab01_OmP\\lab01_OmP\\Program.cs",
+              "RelativeToolTip": "lab01_OmP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T03:05:54.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
