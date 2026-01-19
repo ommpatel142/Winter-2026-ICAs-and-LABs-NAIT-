@@ -1,0 +1,11 @@
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\ICAs\ica02_OmP\ica02_OmP\bin\Debug\ica02_OmP.exe.config
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\ICAs\ica02_OmP\ica02_OmP\bin\Debug\ica02_OmP.exe
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\ICAs\ica02_OmP\ica02_OmP\bin\Debug\ica02_OmP.pdb
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\ICAs\ica02_OmP\ica02_OmP\obj\Debug\ica02_OmP.csproj.AssemblyReference.cache
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\ICAs\ica02_OmP\ica02_OmP\obj\Debug\ica02_OmP.Form1.resources
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\ICAs\ica02_OmP\ica02_OmP\obj\Debug\ica02_OmP.Properties.Resources.resources
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\ICAs\ica02_OmP\ica02_OmP\obj\Debug\ica02_OmP.csproj.GenerateResource.cache
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\ICAs\ica02_OmP\ica02_OmP\obj\Debug\ica02_OmP.csproj.CoreCompileInputs.cache
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\ICAs\ica02_OmP\ica02_OmP\obj\Debug\ica02_OmP.exe
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\ICAs\ica02_OmP\ica02_OmP\obj\Debug\ica02_OmP.pdb
+C:\Users\ompatel\Downloads\To Transfer From Pen Drive\ip\ICAs\ica02_OmP\ica02_OmP\obj\Debug\ica02_OmP.exe.config
